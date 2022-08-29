@@ -9,4 +9,6 @@ Para el punto 2 las intrucciones y la solcion estan dentro del directorio  proye
 
 - https://github.com/kerodriguezm/DevopsTestDafiti/tree/master/dev/proyecto-migracion
 
-para el punto 3, el diagrama de solucion es https://github.com/kerodriguezm/DevopsTestDafiti/tree/dev/diagrams/Diagrama.drawio
+para el punto 3, el diagrama de solucion es https://github.com/kerodriguezm/DevopsTestDafiti/tree/dev/diagrams/Diagram.png
+
+![Diagram](https://github.com/kerodriguezm/DevopsTestDafiti/tree/dev/diagrams/Diagram.png)
