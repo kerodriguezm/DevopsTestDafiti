@@ -11,4 +11,4 @@ Para el punto 2 las intrucciones y la solcion estan dentro del directorio  proye
 
 para el punto 3, el diagrama de solucion es https://github.com/kerodriguezm/DevopsTestDafiti/tree/dev/diagrams/Diagram.png
 
-![Diagram](https://kerodriguezm.github.io/DevopsTestDafiti/diagrams/Diagrama.png)
+![Diagram](https://kerodriguezm.github.io/dev/DevopsTestDafiti/diagrams/Diagrama.png)
