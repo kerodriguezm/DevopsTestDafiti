@@ -36,10 +36,10 @@ En el presente documento se indicara como desplegar el proyecto y levantar el mi
 
 
     NAME         TYPE        CLUSTER-IP         EXTERNAL-IP   PORT(S)    
-   |------------|-----------|-----------------|-------------|-------------|
-   |api         | ClusterIP |***autoasigned***|    <none>   |     8000/TCP|  
-   |db          | ClusterIP |***autoasigned***|    <none>   |     5432/TCP|     
-   |rabbitmq    | ClusterIP |***autoasigned***|    <none>   |     5672/TCP|
+    |------------|-----------|-----------------|-------------|-------------|
+    |api         | ClusterIP |***autoasigned***|    <none>   |     8000/TCP|  
+    |db          | ClusterIP |***autoasigned***|    <none>   |     5432/TCP|     
+    |rabbitmq    | ClusterIP |***autoasigned***|    <none>   |     5672/TCP|
 
 7 - acceder a la aplicacion
     `minikube service api`
