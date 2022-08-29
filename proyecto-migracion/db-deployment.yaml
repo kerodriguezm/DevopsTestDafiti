@@ -1,0 +1,48 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: kompose convert
+    kompose.version: 1.26.1 (HEAD)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: db
+    app: db
+    tier: database 
+  name: db
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      io.kompose.service: db
+      app: db
+      tier: database 
+  strategy: {}
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: kompose convert
+        kompose.version: 1.26.1 (HEAD)
+      creationTimestamp: null
+      labels:
+        io.kompose.service: db
+        app: db
+        tier: database 
+    spec:
+      containers:
+        - env:
+            - name: POSTGRES_DB
+              value: devops
+            - name: POSTGRES_HOST
+              value: db
+            - name: POSTGRES_PASSWORD
+              value: devops
+            - name: POSTGRES_USER
+              value: devops
+          image: postgres:10.4
+          ports:
+          - containerPort: 5432
+          name: db
+          resources: {}
+      restartPolicy: Always
+status: {}
