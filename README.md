@@ -1,18 +1,18 @@
 # Solutions
 
 ## Punto 1:
-- https://github.com/kerodriguezm/DevopsTestDafiti/tree/dev/bash/archivos.md
-- https://github.com/kerodriguezm/DevopsTestDafiti/tree/dev/bash/sistema.md
+- https://github.com/kerodriguezm/DevopsTestDafiti/tree/master/bash/archivos.md
+- https://github.com/kerodriguezm/DevopsTestDafiti/tree/master/bash/sistema.md
 
 ## Punto 2:
 Las intrucciones y la solucion estan dentro del directorio  proyecto-migracion:
-- https://github.com/kerodriguezm/DevopsTestDafiti/tree/master/dev/proyecto-migracion
+- https://github.com/kerodriguezm/DevopsTestDafiti/tree/master/master/proyecto-migracion
 
 ## Punto 3:
 
 ***Diagrama:***
 
-![alt text](https://github.com/kerodriguezm/DevopsTestDafiti/blob/dev/diagrams/Diagrama.png)
+![alt text](https://github.com/kerodriguezm/DevopsTestDafiti/blob/master/diagrams/Diagrama.png)
 
 Los servicios que se proponen son los siguientes:
 
