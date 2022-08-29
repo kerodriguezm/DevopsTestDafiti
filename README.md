@@ -6,7 +6,7 @@
 
 ## Punto 2:
 Las intrucciones y la solucion estan dentro del directorio  proyecto-migracion:
-- https://github.com/kerodriguezm/DevopsTestDafiti/tree/master/master/proyecto-migracion
+- https://github.com/kerodriguezm/DevopsTestDafiti/tree/master/proyecto-migracion
 
 ## Punto 3:
 
